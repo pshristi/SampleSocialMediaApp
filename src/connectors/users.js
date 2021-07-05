@@ -10,7 +10,12 @@ async function createAnonUser(){
 }
 
 async function getUserById(id){
-    return await Users.findOne({where : id})
+    if (!id) throw new Error('user id not provided')
+    if (typeof id !== 'number') throw new Error('user id should be integer')
+  
+    return await Users.findOne({where : 
+        {id : id}
+    })
 }
 
 async function getUserByUsername(username){
