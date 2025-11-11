@@ -4,7 +4,7 @@ A sample social media web application built with Node.js, Express, and Sequelize
 
 ## 📚 About This Project
 
-This project was developed as part of the learning exercises in the **[Full Stack Web Development with NodeJS Master Course](https://online.codingblocks.com/courses/web-development-online-course)** by Coding Blocks. The course covers comprehensive full-stack development with JavaScript, including MySQL, MongoDB, and modern web development practices.
+This project was developed as part of the learning exercises in the **Full Stack Web Development with NodeJS Master Course** by Coding Blocks. The course covers comprehensive full-stack development with JavaScript, including MySQL, MongoDB, and modern web development practices.
 
 ## ✨ Features
 
@@ -190,14 +190,14 @@ This is a learning project, but suggestions and improvements are welcome! Feel f
 5. Open a Pull Request
 
 ## 👤 Maintainer
-
 **Shristi Pathak**
-- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shristi-pathak)
 
 ## 🙏 Acknowledgments
 
 - **Coding Blocks** - For the comprehensive Web Development course
-- **Arnav Gupta (@ChampionSwimmer)** - Course instructor and mentor
+- **Arnav Gupta** ([@ChampionSwimmer](https://github.com/ChampionSwimmer)) - Course instructor and mentor
 - The open-source community for the amazing tools and libraries used in this project
 
 ## 📚 Course Reference
@@ -209,7 +209,7 @@ This project is part of the **Full Stack Web Development with NodeJS Master Cour
 - WebSockets and real-time communication
 - Deployment and security best practices
 
-**Course Link**: [https://online.codingblocks.com/courses/web-development-online-course](https://online.codingblocks.com/courses/web-development-online-course)
+**Course Link:** [Web Development Online Course](https://online.codingblocks.com/courses/web-development-online-course)
 
 ---
 
